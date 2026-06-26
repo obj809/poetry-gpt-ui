@@ -2,7 +2,7 @@
 
 
 ## Project Overview
-An interactive chatbot that provides poetic responses using a finely-tuned ChatGPT model. This repository is the React + TypeScript frontend, built with Vite and styled with SCSS. It communicates with a separate backend service (the partner project below) that serves the fine-tuned model.
+An interactive chatbot that provides poetic responses using a finely-tuned ChatGPT model. This repository is the React + TypeScript frontend, built with Vite and styled with SCSS. It communicates with a separate backend service that serves the model.
 
 
 ## Deployment Link
