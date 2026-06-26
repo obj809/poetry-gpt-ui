@@ -1,4 +1,4 @@
-# PoetryGPT - ChatGPT Interface
+# PoetryGPT - Chatbot Interface
 
 ## Deployment Link
 [https://poetry-gpt.netlify.app/](https://poetry-gpt.netlify.app/)
