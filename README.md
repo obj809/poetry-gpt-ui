@@ -1,4 +1,4 @@
-# PoetryGPT - Poetic ChatGPT Interface
+# PoetryGPT - ChatGPT Interface
 
 
 ## Project Overview
@@ -7,10 +7,6 @@ An interactive chatbot that provides poetic responses using a finely-tuned ChatG
 
 ## Deployment Link
 [https://poetry-gpt.netlify.app/](https://poetry-gpt.netlify.app/)
-
-## Partner Project
-
-[https://github.com/cyberforge1/chat-gpt-fine-tuning](https://github.com/cyberforge1/chat-gpt-fine-tuning)
 
 ## Screenshot
 ![Application Screenshot](public/app-screenshot.png "Project Screenshot")
