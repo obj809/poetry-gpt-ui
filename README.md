@@ -1,12 +1,10 @@
 # PoetryGPT - ChatGPT Interface
 
+## Deployment Link
+[https://poetry-gpt.netlify.app/](https://poetry-gpt.netlify.app/)
 
 ## Project Overview
 An interactive chatbot that provides poetic responses using a finely-tuned ChatGPT model. This repository is the React + TypeScript frontend, built with Vite and styled with SCSS. It communicates with a separate backend service that serves the model.
-
-
-## Deployment Link
-[https://poetry-gpt.netlify.app/](https://poetry-gpt.netlify.app/)
 
 ## Screenshot
 ![Application Screenshot](public/app-screenshot.png "Project Screenshot")
