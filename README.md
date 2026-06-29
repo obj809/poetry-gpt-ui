@@ -86,10 +86,6 @@ The frontend sends each prompt as a `POST` to `${VITE_API_BASE_URL}/generate` an
 - Building an interface to directly resemble an existing application
 - Selecting TypeScript to build with React for the first time
 
-## Known Issues
-- Issues with clashing data in the animation function when another request is submitted before the initial request has completed.
-
-
 ## Challenges
 
 An interesting challenge encountered during this project involved suspected grammatical errors in the response from the API. Subsequent phrases were attached directly to previous phrases and with capitalized letters. 
